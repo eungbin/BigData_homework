@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a7b0bcd-bb7d-462c-b904-dd2ced3e11b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_weeks/20.09.17-9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.09.10-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.09.10-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.09.10-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.09.10-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.09.10-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20.09.10-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework-01.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +56,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.homework-01">
-    <configuration name="20.09.10-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.20.09.17-10">
+    <configuration name="20.09.17-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lecture_bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_weeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20.09.10-4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_weeks/20.09.17-10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20.09.10-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20.09.17-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lecture_bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_weeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20.09.10-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_weeks/20.09.17-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20.09.10-6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20.09.17-7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lecture_bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_weeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20.09.10-6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_weeks/20.09.17-7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework-01-another" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20.09.17-8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lecture_bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_weeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-01-another.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_weeks/20.09.17-8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20.09.17-9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lecture_bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/third_weeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework-01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third_weeks/20.09.17-9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.homework-01" />
-        <item itemvalue="Python.homework-01-another" />
-        <item itemvalue="Python.20.09.10-6" />
-        <item itemvalue="Python.20.09.10-5" />
-        <item itemvalue="Python.20.09.10-4" />
+        <item itemvalue="Python.20.09.17-10" />
+        <item itemvalue="Python.20.09.17-9" />
+        <item itemvalue="Python.20.09.17-8" />
+        <item itemvalue="Python.20.09.17-7" />
+        <item itemvalue="Python.20.09.17-5" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +190,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
