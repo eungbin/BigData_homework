@@ -15,6 +15,7 @@ product_name = u'핸드백'
 handbag = df[(df[u'제품명'] == product_name)]
 #제품명이 product_name[핸드백]인 행들
 handbag_sum = pd.DataFrame(handbag.sum(axis=1), columns=[u'연간판매량'])
+print(handbag)
 print("test")
 print(handbag_sum)
 #각 핸드백의 1분기~4분기 합 [연간 판매량]
@@ -23,6 +24,9 @@ handbag_total = handbag.join(handbag_sum)
 print(handbag_total)
 
 handbag_sum2 = pd.DataFrame(handbag_total.sum(), columns=[u'합계'])
+print("test1")
+print(handbag_sum2)
+print(handbag_sum2.T)
 handbag_total2 = handbag_total.append(handbag_sum2.T)
 handbag_total2.loc[u'합계', u'제품명'] = product_name
 handbag_total2.loc[u'합계', u'담당자'] = u'전체'
