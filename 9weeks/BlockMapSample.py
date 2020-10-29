@@ -70,6 +70,10 @@ def showMap(blockedMap, targetData, strTitle, strColor, gamma):
     cb.set_label(targetData)
     plt.tight_layout()
     
-    plt.savefig('c:\\Temp\\' + targetData + '.png')
+    plt.savefig('./' + targetData + '.png')
 
     plt.show()
+
+data_korea = pd.read_csv('./data_draw_korea.csv', index_col=0, encoding='utf-8')
+data_korea.index = data_korea.apply(lambda r:r[u'광역시도']+''+r[u'행정구역'],axis=1)
+showMap(data_korea,u'인구수',u'전국인구통계분포','RdPu',0.75)
