@@ -20,7 +20,7 @@ with open(stpword_path, encoding='utf-8') as f:
     stopwordlist = f.readlines()
 stopwordlist = [x.strip() for x in stopwordlist]
 
-f = io.open('./tweet_football_20201111.txt','r',encoding='utf-8')
+f = io.open('./test.txt','r',encoding='utf-8')
 data=''
 while True:
     line = f.readline()
@@ -49,6 +49,6 @@ plt.xticks(range(len(wordInfo)), list(sorted_Dict_Keys), rotation='70')
 plt.show()
 
 taglist = pytagcloud.make_tags(dict(wordInfo).items(), maxsize=80)
-pytagcloud.create_tag_image(taglist, './tweet.jpg', size=(640, 480),
+pytagcloud.create_tag_image(taglist, './tweet1.jpg', size=(640, 480),
                             fontname='Nanum Gothic Coding', rectangular=False)
-webbrowser.open('./tweet.jpg')
+webbrowser.open('./tweet1.jpg')
