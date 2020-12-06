@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a7b0bcd-bb7d-462c-b904-dd2ced3e11b2" name="Default Changelist" comment="" />
+    <list default="true" id="3a7b0bcd-bb7d-462c-b904-dd2ced3e11b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/12weeks/11.19-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12weeks/11.19-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12weeks/covid_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/Covid19GenAgeCaseInf.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/Covid19InfState.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/Covid19NatInfState.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/Covid19SidoInfState.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/Covid19Trace.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/covid-sido.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/model_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11weeks/11.12-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/11weeks/11.12-4.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +37,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/11weeks" />
+    <property name="last_opened_file_path" value="C:/dev/react/stock_predict/LSTM_Stock_Prediction" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kim\Desktop\인하공전\3학년-2학기\lecture_bigdata\homework" />
       <recent name="C:\Users\kim\Desktop\인하공전\3학년-2학기\lecture_bigdata\11weeks" />
       <recent name="C:\Users\kim\Desktop\인하공전\3학년-2학기\lecture_bigdata\seventh_weeks" />
     </key>
@@ -45,70 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.11.12-5">
-    <configuration name="11.12-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lecture_bigdata" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11weeks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11weeks/11.12-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11.12-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lecture_bigdata" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11weeks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11weeks/11.12-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11.12-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lecture_bigdata" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11weeks" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11weeks/11.12-3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.covid-sido">
     <configuration name="11.12-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lecture_bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11.12-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20.10.29-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lecture_bigdata" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +89,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11weeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9weeks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11weeks/11.12-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9weeks/20.10.29-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20.10.29-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lecture_bigdata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9weeks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9weeks/20.10.29-3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="covid-sido" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lecture_bigdata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/covid-sido.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="covid_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lecture_bigdata" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12weeks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12weeks/covid_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11.12-5" />
+        <item itemvalue="Python.covid-sido" />
+        <item itemvalue="Python.20.10.29-2" />
+        <item itemvalue="Python.20.10.29-3" />
+        <item itemvalue="Python.covid_test" />
         <item itemvalue="Python.11.12-4" />
-        <item itemvalue="Python.11.12-3" />
-        <item itemvalue="Python.11.12-2" />
-        <item itemvalue="Python.11.12-1" />
       </list>
     </recent_temporary>
   </component>

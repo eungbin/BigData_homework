@@ -13,10 +13,10 @@ access_toen_secret = "c98kSO0vGC5TZznxnysnaBuxkMxndDD8ixDJYznyZsLtv"
 auth.set_access_token(access_token, access_toen_secret)
 api = tweepy.API(auth, wait_on_rate_limit=True)  #tweepy 객체 생성
 
-keyword="손흥민"
+keyword="삼성전자"
 search = []
 
-f = io.open('./test.txt',"w",encoding="utf-8")
+f = io.open('./samsung_test.txt',"w",encoding="utf-8")
 cnt=1
 while (cnt<=100):
     tweets = api.search(keyword)  #트위터 키워드 검색
