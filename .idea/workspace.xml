@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a7b0bcd-bb7d-462c-b904-dd2ced3e11b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/12weeks/11.19-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12weeks/11.19-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12weeks/covid_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/Covid19GenAgeCaseInf.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/Covid19InfState.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/Covid19NatInfState.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/Covid19SidoInfState.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/Covid19Trace.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/covid-sido.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/model_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11weeks/11.12-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/11weeks/11.12-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/covid-sido.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/covid-sido.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/dev/react/stock_predict/LSTM_Stock_Prediction" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
